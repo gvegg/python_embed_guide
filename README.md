@@ -1,6 +1,3 @@
-Вот обновленная инструкция. Я добавил важный шаг с настройкой файла `._pth` перед использованием pip.
-
-```markdown
 # Python Embeddable Package Setup Guide for Windows
 
 Follow these steps to set up the Python embeddable package with `pip` and `virtualenv` on Windows.
@@ -51,5 +48,4 @@ To properly register `pip` in the path and ensure scripts (executables) are gene
 
 ```powershell
 .\python.exe -m pip install --force-reinstall pip
-```
 ```
